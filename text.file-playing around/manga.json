@@ -1,0 +1,1371 @@
+{
+    "mangas": [
+        {
+            "name": "Death March to the Parallel World Rhapsody",
+            "rating": 7.24,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 83021
+        },
+        {
+            "name": "World Teacher: Isekaishiki Kyouiku Agent",
+            "rating": 6.98,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 103436
+        },
+        {
+            "name": "The villagers of level 999",
+            "rating": 7.25,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 98360
+        },
+        {
+            "name": "Evil Dragon Reincarnation",
+            "rating": 6.74,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 100923
+        },
+        {
+            "name": "Re:Monster",
+            "rating": 7.64,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 73271
+        },
+        {
+            "name": "Arafoo Kenja no Isekai Seikatsu Nikki",
+            "rating": 7,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 104063
+        },
+        {
+            "name": "World Customize Creator",
+            "rating": 7.11,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ],
+            "mal_id": 74167
+        },
+        {
+            "name": "The Reincarnated Vampire Wants an Afternoon Nap",
+            "rating": 7.33,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 101192
+        },
+        {
+            "name": "The New Gate",
+            "rating": 7.92,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 82427
+        },
+        {
+            "name": "Nidome no Jinsei wo Isekai de",
+            "rating": 7.14,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 102653
+        },
+        {
+            "name": "A Wild Last Boss Appeared!",
+            "rating": 7.45,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Gender Bender"
+            ],
+            "mal_id": 108598
+        },
+        {
+            "name": "I Said Make My Abilities Average!",
+            "rating": 6.74,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 99673
+        },
+        {
+            "name": "Kuro no Souzou Shoukanshi",
+            "rating": 6.46,
+            "genres": [
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ],
+            "mal_id": 95255
+        },
+        {
+            "name": "Shikkaku Mon no Saikyou Kenja",
+            "rating": 7.25,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 107118
+        },
+        {
+            "name": "Isekai Cheat Magician",
+            "rating": 6.44,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Shounen"
+            ],
+            "mal_id": 104284
+        },
+        {
+            "name": "Skeleton Knight in Another World",
+            "rating": 7.24,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 105328
+        },
+        {
+            "name": "Tensei Kenja no Isekai Raifu",
+            "rating": 6.98,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 115917
+        },
+        {
+            "name": "Kenja no Mago",
+            "rating": 7.28,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 99377
+        },
+        {
+            "name": "She Professed as Sage's Pupil",
+            "rating": 7.15,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 100377
+        },
+        {
+            "name": "So I'm a Spider, So What?",
+            "rating": 8,
+            "genres": [
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 95353
+        },
+        {
+            "name": "Zero kara Hajimeru",
+            "rating": 7.6,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "mal_id": 67523
+        },
+        {
+            "name": "Hachi-nan tte, Sore wa Nai deshou!",
+            "rating": 6.78,
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy"
+            ],
+            "mal_id": 94181
+        },
+        {
+            "name": "Mushoku Tensei: Jobless Reincarnation",
+            "rating": 7.95,
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Seinen"
+            ],
+            "mal_id": 70259
+        },
+        {
+            "name": "From Commonplace to World's Strongest",
+            "rating": 7.49,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 96528
+        },
+        {
+            "name": "Yuusha Yonin ni Makikomareta Unique Cheat",
+            "rating": 7.5,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 82399
+        },
+        {
+            "name": "Moon-led Journey Across Another World",
+            "rating": 7.76,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Shounen"
+            ],
+            "mal_id": 90117
+        },
+        {
+            "name": "The Different World Magic Is Too Behind!",
+            "rating": 6.93,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 103364
+        },
+        {
+            "name": "Tsuyokute New Saga",
+            "rating": 7.52,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 74287
+        },
+        {
+            "name": "The Mage Will Master Magic Efficiently in his Second Life",
+            "rating": 7.23,
+            "genres": [
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 94700
+        },
+        {
+            "name": "Farming Life in Another World",
+            "rating": 7.04,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 110087
+        },
+        {
+            "name": "I applied as a swordsman, but my magic aptitude is 9999?!",
+            "rating": 7.11,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Magic",
+                "Romance",
+                "School",
+                "Harem",
+                "Supernatural",
+                "Seinen"
+            ],
+            "mal_id": 62769
+        },
+        {
+            "name": "Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat",
+            "rating": 6.46,
+            "genres": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 109649
+        },
+        {
+            "name": "The Dungeon Seeker",
+            "rating": 6.86,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 98820
+        },
+        {
+            "name": "Ultimate Antihero",
+            "rating": 6.46,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 93322
+        },
+        {
+            "name": "Tensei Shitara Ken Deshita",
+            "rating": 7.61,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 103144
+        },
+        {
+            "name": "Tensei Shi Chatta Yo",
+            "rating": 7.04,
+            "genres": [
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 93114
+        },
+        {
+            "name": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+            "rating": 6.93,
+            "genres": [
+                "Fantasy",
+                "Seinen"
+            ],
+            "mal_id": 99313
+        },
+        {
+            "name": "Hiraheishi wa Kako wo Yumemiru",
+            "rating": 7.13,
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Supernatural"
+            ],
+            "mal_id": 98712
+        },
+        {
+            "name": "Yankee Wa Isekai De Seirei Ni Aisaremasu",
+            "rating": 6.82,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 105366
+        },
+        {
+            "name": "Tales of Demons and Gods",
+            "rating": 6.9,
+            "genres": [
+                "Action",
+                "Demons",
+                "Fantasy",
+                "Shounen"
+            ],
+            "mal_id": 111216
+        },
+        {
+            "name": "Ore no Ie ga Maryoku Spot datta Ken",
+            "rating": 6.71,
+            "genres": [
+                "Ecchi",
+                "Fantasy",
+                "Magic",
+                "Slice of Life"
+            ],
+            "mal_id": 115515
+        },
+        {
+            "name": "Butsuri-san de Musou shitetara Motemote ni Narimashita",
+            "rating": 5.87,
+            "genres": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 106300
+        },
+        {
+            "name": "Magi Craft Meister",
+            "rating": 6.68,
+            "genres": [
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 109181
+        },
+        {
+            "name": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
+            "rating": 6.42,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 111491
+        },
+        {
+            "name": "Tensei Kizoku no Isekai",
+            "rating": 7.06,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Romance",
+                "Harem"
+            ],
+            "mal_id": 114843
+        },
+        {
+            "name": "it Seems the Strongest Job is Not Hero nor Sage, but Inspector",
+            "rating": 6.67,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "School",
+                "Super Power",
+                "Harem"
+            ],
+            "mal_id": 120446
+        },
+        {
+            "name": "Archenemy & Hero - Maoyuu Maou Yuusha",
+            "rating": 8.09,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Fantasy",
+                "Romance"
+            ],
+            "mal_id": 26441
+        },
+        {
+            "name": "The Legendary Moonlight Sculptor",
+            "rating": 7.47,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Ecchi",
+                "Fantasy"
+            ],
+            "mal_id": 85941
+        },
+        {
+            "name": "Douyara Watashi No Karada Wa",
+            "rating": 6.67,
+            "genres": [
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 114923
+        },
+        {
+            "name": "Accomplishments of the Duke\u00ef\u00bf\u00bds Daughter",
+            "rating": 7.85,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 97579
+        },
+        {
+            "name": "Maou ni Natta node",
+            "rating": 7.34,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 115200
+        },
+        {
+            "name": "Sayounara Ryuusei",
+            "rating": 6.84,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen",
+                "Super Power",
+                "Harem"
+            ],
+            "mal_id": 95309
+        },
+        {
+            "name": "Kuma Kuma Kuma Bear",
+            "rating": 7.86,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 100512
+        },
+        {
+            "name": "Saikyou no Shuzoku ga Ningen Datta Ken",
+            "rating": 6.37,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy"
+            ],
+            "mal_id": 115156
+        },
+        {
+            "name": "The Greatest Magicmaster's Retirement Plan",
+            "rating": 6.75,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 108754
+        },
+        {
+            "name": "Isekai Meikyuu de Harem wo",
+            "rating": 6.93,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Shounen",
+                "Harem"
+            ],
+            "mal_id": 106608
+        },
+        {
+            "name": "Tanaka The Wizard",
+            "rating": 6.37,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 103439
+        },
+        {
+            "name": "My Status as an Assassin Obviously Exceeds the Brave's",
+            "rating": 7.21,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 115067
+        },
+        {
+            "name": "The Simple-Looking Sword Saint is Nevertheless the Strongest",
+            "rating": 6.95,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 116166
+        },
+        {
+            "name": "The Death Mage Who Doesn't Want a Fourth Time",
+            "rating": 7.18,
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy"
+            ],
+            "mal_id": 114849
+        },
+        {
+            "name": "Kuro no Shoukanshi",
+            "rating": 7.23,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 112121
+        },
+        {
+            "name": "Hakoniwa Oukoku",
+            "rating": 6.49,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 110481
+        },
+        {
+            "name": "Kamitachi ni Hirowareta Otoko",
+            "rating": 7.5,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Slice of Life"
+            ],
+            "mal_id": 111228
+        },
+        {
+            "name": "Maou-sama no Machizukur",
+            "rating": 6.72,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Harem"
+            ],
+            "mal_id": 113292
+        },
+        {
+            "name": "Isekai Tensei Soudouki",
+            "rating": 7.4,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 89703
+        },
+        {
+            "name": "Shiro no Koukoku Monogatari",
+            "rating": 7.01,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 80487
+        },
+        {
+            "name": "Jichou shinai Motoyuusha no",
+            "rating": 6.1,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 114968
+        },
+        {
+            "name": "Jishou! Heibon Mazoku",
+            "rating": 6.82,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Fantasy",
+                "School"
+            ],
+            "mal_id": 114297
+        },
+        {
+            "name": "The Reincarnated One Doesn't Want to Cheat",
+            "rating": null,
+            "genres": [
+                "Fantasy",
+                "Magic",
+                "School",
+                "Shoujo"
+            ],
+            "mal_id": 92804
+        },
+        {
+            "name": "Ubau Mono Ubawareru Mono",
+            "rating": 7.17,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi",
+                "Harem"
+            ],
+            "mal_id": 99410
+        },
+        {
+            "name": "Nozomanu Fushi no Boukensha",
+            "rating": 7.4,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 109947
+        },
+        {
+            "name": "Berserk of Gluttony",
+            "rating": 7.18,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 113958
+        },
+        {
+            "name": "The Wrong Way to use Healing Magic",
+            "rating": 7.5,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 106810
+        },
+        {
+            "name": "Seirei Gensouki",
+            "rating": 6.95,
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy"
+            ],
+            "mal_id": 108306
+        },
+        {
+            "name": "Seichou Cheat de Nandemo",
+            "rating": 7.46,
+            "genres": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 100407
+        },
+        {
+            "name": "Maken no Daydreamer",
+            "rating": 6.71,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 98156
+        },
+        {
+            "name": "Kono Sekai ga Game dato Ore dake ga Shitte Iru",
+            "rating": 6.7,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Game",
+                "Harem"
+            ],
+            "mal_id": 83571
+        },
+        {
+            "name": "Murabito Tensei",
+            "rating": 6.4,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 115928
+        },
+        {
+            "name": "Dorei Shounin Shika",
+            "rating": 6.47,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 116547
+        },
+        {
+            "name": "Isekai Tensei no Boukensha",
+            "rating": 6.63,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 118238
+        },
+        {
+            "name": "Chillin Different World Life Of The EX-Brave Candidate",
+            "rating": 7.3,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Romance"
+            ],
+            "mal_id": 119152
+        },
+        {
+            "name": "Rain",
+            "rating": 7.76,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ],
+            "mal_id": 17237
+        },
+        {
+            "name": "Gun-ota",
+            "rating": 6.68,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Shounen",
+                "Harem"
+            ],
+            "mal_id": 91656
+        },
+        {
+            "name": "Legend",
+            "rating": 7.03,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ],
+            "mal_id": 92890
+        },
+        {
+            "name": "Wizardly tower",
+            "rating": 7.15,
+            "genres": [
+                "Drama",
+                "Game",
+                "Seinen"
+            ],
+            "mal_id": 56521
+        },
+        {
+            "name": "Black haze",
+            "rating": 7.88,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Shounen"
+            ],
+            "mal_id": 40
+        },
+        {
+            "name": "The gamer",
+            "rating": 7.61,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "School"
+            ],
+            "mal_id": 87303
+        },
+        {
+            "name": "Grandmaster of demonic cultivation",
+            "rating": 7,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Supernatural"
+            ],
+            "mal_id": 58039
+        },
+        {
+            "name": "Isekai de Kojiin",
+            "rating": 6.46,
+            "genres": [
+                "Fantasy"
+            ],
+            "mal_id": 114777
+        },
+        {
+            "name": "I Am a Villager, What About It?",
+            "rating": 6.92,
+            "genres": [
+                "Fantasy",
+                "Shounen"
+            ],
+            "mal_id": 104247
+        },
+        {
+            "name": "Goodbye! Fantasy World Reincarnation",
+            "rating": 7.01,
+            "genres": [
+                "Fantasy",
+                "Shounen"
+            ],
+            "mal_id": 110365
+        },
+        {
+            "name": "Don's Adventure in Another World",
+            "rating": null,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 118735
+        },
+        {
+            "name": "Isekai Cheat Survival Meshi",
+            "rating": 6.65,
+            "genres": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "mal_id": 118416
+        },
+        {
+            "name": "Shingan no Yuusha",
+            "rating": 6.51,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "mal_id": 109931
+        },
+        {
+            "name": "God of Martial Arts",
+            "rating": 6.67,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Martial Arts",
+                "School"
+            ],
+            "mal_id": 31449
+        },
+        {
+            "name": "Holy Ancestor",
+            "rating": 7.06,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "Harem",
+                "Josei"
+            ],
+            "mal_id": 16179
+        },
+        {
+            "name": "Phoenix against the World",
+            "rating": null,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Martial Arts",
+                "Romance"
+            ],
+            "mal_id": 121774
+        },
+        {
+            "name": "Spirit Blade Mountain",
+            "rating": null,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Magic"
+            ],
+            "mal_id": 121252
+        },
+        {
+            "name": "A Returner's Magic Should Be Special",
+            "rating": 8,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "School",
+                "Shoujo"
+            ],
+            "mal_id": 1271
+        },
+        {
+            "name": "Martial Movement Upheaval",
+            "rating": 7.56,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Martial Arts"
+            ],
+            "mal_id": 116897
+        },
+        {
+            "name": "Battle Through The Heavens",
+            "rating": 8.29,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Supernatural"
+            ],
+            "mal_id": 79193
+        },
+        {
+            "name": "Divine Throne",
+            "rating": 7.24,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Supernatural"
+            ],
+            "mal_id": 112093
+        },
+        {
+            "name": "Soul Land I",
+            "rating": 8.13,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Shounen",
+                "Supernatural"
+            ],
+            "mal_id": 908
+        },
+        {
+            "name": "Star Martial God Technique",
+            "rating": 5.75,
+            "genres": [
+                "Yaoi"
+            ],
+            "mal_id": 4512
+        },
+        {
+            "name": "Soul Land II",
+            "rating": 8.13,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Shounen",
+                "Supernatural"
+            ],
+            "mal_id": 908
+        },
+        {
+            "name": "I Shall Seal the Heavens",
+            "rating": 7.11,
+            "genres": [
+                "Shoujo"
+            ],
+            "mal_id": 4832
+        },
+        {
+            "name": "Attack On Titan",
+            "rating": 8.59,
+            "genres": [
+                "Action",
+                "Mystery",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Shounen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "mal_id": 23390
+        },
+        {
+            "name": "Lang Huan Library",
+            "rating": 8.1,
+            "genres": [
+                "Action",
+                "Romance",
+                "Sci-Fi",
+                "Shoujo",
+                "Military"
+            ],
+            "mal_id": 7630
+        },
+        {
+            "name": "Supreme Demon",
+            "rating": null,
+            "genres": [
+                "Music",
+                "Seinen"
+            ],
+            "mal_id": 100922
+        },
+        {
+            "name": "Legend of Phoenix",
+            "rating": 8.54,
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Historical",
+                "Romance",
+                "Sci-Fi",
+                "Shounen",
+                "Space",
+                "Supernatural",
+                "Psychological"
+            ],
+            "mal_id": 1325
+        },
+        {
+            "name": "The Quintessential Quintuplets",
+            "rating": 8.02,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen",
+                "Harem"
+            ],
+            "mal_id": 103851
+        },
+        {
+            "name": "All Heavenly Days",
+            "rating": 7.6,
+            "genres": [
+                "Comedy",
+                "Shoujo"
+            ],
+            "mal_id": 350
+        },
+        {
+            "name": "Dragon's Symbol of the King's Road Under the Sky",
+            "rating": 8.45,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Martial Arts",
+                "Sci-Fi",
+                "Shounen",
+                "Super Power"
+            ],
+            "mal_id": 42
+        },
+        {
+            "name": "Stellar Transformations",
+            "rating": 7.58,
+            "genres": [
+                "Romance",
+                "Yaoi"
+            ],
+            "mal_id": 1201
+        },
+        {
+            "name": "Lord Xue Ying",
+            "rating": null,
+            "genres": [
+                "Action",
+                "Historical",
+                "Seinen"
+            ],
+            "mal_id": 3741
+        },
+        {
+            "name": "Apotheosis",
+            "rating": 7.41,
+            "genres": [
+                "Romance",
+                "Shoujo"
+            ],
+            "mal_id": 537
+        },
+        {
+            "name": "The Scholar's Reincarnation",
+            "rating": 7.5,
+            "genres": [
+                "Action",
+                "Mystery",
+                "Supernatural"
+            ],
+            "mal_id": 75487
+        },
+        {
+            "name": "Eternal Reverence",
+            "rating": 7.91,
+            "genres": [
+                "Drama",
+                "Sci-Fi",
+                "Supernatural",
+                "Psychological",
+                "Seinen"
+            ],
+            "mal_id": 344
+        },
+        {
+            "name": "Chaotic Sword God",
+            "rating": 7.17,
+            "genres": [
+                "Action",
+                "Mecha",
+                "Sci-Fi"
+            ],
+            "mal_id": 359
+        },
+        {
+            "name": "The Mythical Realm",
+            "rating": 7.4,
+            "genres": [
+                "Comedy",
+                "Mystery",
+                "Fantasy",
+                "Magic",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ],
+            "mal_id": 8442
+        },
+        {
+            "name": "Transcending The Nine Heavens",
+            "rating": 6.64,
+            "genres": [
+                "Adventure",
+                "Game",
+                "Shounen"
+            ],
+            "mal_id": 98225
+        },
+        {
+            "name": "Yuan Zun",
+            "rating": null,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Martial Arts"
+            ],
+            "mal_id": 119255
+        },
+        {
+            "name": "The Great Ruler",
+            "rating": 7.31,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Super Power"
+            ],
+            "mal_id": 97798
+        },
+        {
+            "name": "Desolate Era",
+            "rating": 6.85,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Yaoi"
+            ],
+            "mal_id": 2296
+        },
+        {
+            "name": "The Heaven's List",
+            "rating": 7.37,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Shoujo",
+                "Supernatural"
+            ],
+            "mal_id": 362
+        },
+        {
+            "name": "Ultimate Scheming System",
+            "rating": 7.46,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Shoujo"
+            ],
+            "mal_id": 3220
+        },
+        {
+            "name": "Renegade Immortal",
+            "rating": 8.45,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Historical",
+                "Martial Arts",
+                "Samurai",
+                "Supernatural",
+                "Seinen"
+            ],
+            "mal_id": 658
+        },
+        {
+            "name": "The Portal of Wonderland",
+            "rating": 8.08,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Sci-Fi",
+                "Shounen",
+                "Supernatural"
+            ],
+            "mal_id": 3986
+        },
+        {
+            "name": "I've Been Killing Slimes for 300 Years",
+            "rating": 7.23,
+            "genres": [
+                "Comedy",
+                "Fantasy"
+            ],
+            "mal_id": 110288
+        },
+        {
+            "name": "Zero kara Hajimeru Dorei",
+            "rating": 6.42,
+            "genres": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 101243
+        }
+    ]
+}
